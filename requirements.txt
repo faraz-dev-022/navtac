@@ -1,0 +1,7 @@
+pandas
+numpy
+pyarrow
+sqlalchemy>=2
+psycopg2-binary
+packaging
+pytest

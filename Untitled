@@ -1,0 +1,4 @@
+Add fig_migration_size(m): horizontal GROUPED bars per migration (label = full_name + newline + package_name)
+showing n_elements (blue) and n_files (orange), sorted by n_elements, with the value printed at the end of
+each bar, x label 'count', a legend without frame, title "Size of each migration's observed surface".
+Save as 01_migration_size. VERIFY: open the PNG; labels must not overlap or be cut off.
